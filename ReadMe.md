@@ -1,6 +1,6 @@
 # 🥀 About Me:
 📈 Técnica em Desenvolvimento de Sistemas <br>🌐 Estou procurando aprender mais sobre área de TI<br>🌱 Atualmente estou aprendendo
-![GIF Kawaii](https://media.giphy.com/media/link-do-gif/giphy.gif)
+![GIF Kawaii](https://giphy.com/gifs/cat-computer-typing-l0HlNaQ6gWfllcjDO)
 
 ## 💤 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([[https://discord.gg/awake_bimos(https://discord.gg/DTeJ75Wk)](https://discord.gg/DTeJ75Wk)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bea_hahaafyz) 
